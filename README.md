@@ -2,7 +2,7 @@
 ## About script
 #### FloodBot - automation script for M1. It will make it easier for you to notify everyone in the chat room about your exchange or sale offers. This script sends a pre-defined message with a sending period you specify. AssKiss Studio is not responsible for any improper use of the script
 ## System Requirements
-### OS: Windows 7/8/10/11(You may need to install python 3.*.*)
+### OS: Windows 7/8/10/11
 ### Internet connection required
 ## Config
 ### What can be changed in config.txt:
